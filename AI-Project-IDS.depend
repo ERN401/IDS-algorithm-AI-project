@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611487876 source:d:\codeblocks\ai-project-ids\main.cpp
+	<iostream>
+	<math.h>
+
